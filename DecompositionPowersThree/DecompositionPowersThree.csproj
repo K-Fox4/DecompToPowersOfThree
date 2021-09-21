@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>4486894.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="4486894.png" />
+    <None Remove="coe_full.png" />
+    <None Remove="windows\4486894.png" />
+    <None Remove="windows\media_repeat_alt_inv.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="files\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="4486894.png" />
+    <Resource Include="coe_full.png" />
+    <Resource Include="windows\4486894.png" />
+    <Resource Include="windows\media_repeat_alt_inv.png" />
+  </ItemGroup>
+
+</Project>

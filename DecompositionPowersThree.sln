@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompositionPowersThree", "DecompositionPowersThree\DecompositionPowersThree.csproj", "{F71F2B8D-EEBE-45D9-B45E-C274F6F132FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompositionPowersThreeTests", "DecompositionPowersThreeTests\DecompositionPowersThreeTests.csproj", "{8E913AEF-8774-4100-9FD7-7FC00F1DBA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71F2B8D-EEBE-45D9-B45E-C274F6F132FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71F2B8D-EEBE-45D9-B45E-C274F6F132FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71F2B8D-EEBE-45D9-B45E-C274F6F132FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71F2B8D-EEBE-45D9-B45E-C274F6F132FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E913AEF-8774-4100-9FD7-7FC00F1DBA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E913AEF-8774-4100-9FD7-7FC00F1DBA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E913AEF-8774-4100-9FD7-7FC00F1DBA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E913AEF-8774-4100-9FD7-7FC00F1DBA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFF6635-CC66-4AC0-A5B3-726ED341AE0F}
+	EndGlobalSection
+EndGlobal
